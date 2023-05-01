@@ -10,7 +10,7 @@
 - Membros participantes podem inserir, editar e excluir ordens de compra (com seus produtos cadastrados) no carrinho da família
 - Conclua a listinha após ter sido finalizada a compra do supermercado, e começe outra!
 
-Listinha é uma aplicação que permite que membros de uma família possam inserir produtos de casa que precisam ser comprados/repostos. A ideia é, quando um produto acaba, basta regista-lo na plataforma e emitir uma ordem de compra no carrinho da sua família, para que a pessoa responsável pelas compras possa ter acesso aos itens necessários mais rapidamente. Isso é bom, por exemplo, para pessoas que vão ao mercado após o trabalho não precisarem ir até em casa verificar todos os itens que faltam. Ou ter que entrar em contato com os integrantes da família questionando os itens a serem comrprados.
+Listinha é uma aplicação que permite que membros de uma família possam inserir produtos de casa que precisam ser comprados/repostos. A ideia é, quando um produto acaba, basta regista-lo na plataforma e emitir uma ordem de compra no carrinho da sua família, para que a pessoa responsável pelas compras possa ter acesso aos itens necessários mais rapidamente. Isso é bom, por exemplo, para pessoas que vão ao mercado após o trabalho não precisarem ir até em casa verificar todos os itens que faltam. Ou ter que entrar em contato com os integrantes da família questionando os itens a serem comprados.
 
 ## Tech
 
